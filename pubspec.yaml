@@ -1,7 +1,6 @@
 name: audio_trimmer
 description: A new Flutter plugin.
 version: 0.0.1
-author: gsprakash <gsp8722@gmail.com>
 homepage: https://github.com/GSPrakashNaidu/audio_trimmer.git
 
 environment:
